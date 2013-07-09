@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Quiz</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="false_button">False</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="question_text">Atlanta is the largest city in the USA</string>
+    <string name="true_button">True</string>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
