@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- From: file:/C:/Users/Justin/AndroidStudioProjects/AndroidQuiz/Quiz/src/main/res/values/dimens.xml -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-
+    <!-- From: file:/C:/Users/Justin/AndroidStudioProjects/AndroidQuiz/Quiz/src/main/res/values/strings.xml -->
     <string name="action_settings">Settings</string>
     <string name="app_name">Quiz</string>
     <string name="correct_toast">Correct!</string>
@@ -13,11 +14,13 @@
     <string name="next_button">Next</string>
     <string name="question_africa">The source of the Nile River is in Egypt.</string>
     <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
-    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake</string>
-    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake
+    </string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.
+    </string>
     <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
     <string name="true_button">True</string>
-
+    <!-- From: file:/C:/Users/Justin/AndroidStudioProjects/AndroidQuiz/Quiz/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
